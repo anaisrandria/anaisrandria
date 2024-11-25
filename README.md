@@ -1,15 +1,14 @@
 ## Hi 👋, I'm Anaïs!
 <!--
-- Hello world (she codes): [https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwY2NqOTl2YWp5YTdweGdsZXp0M2x2NGxmeWcycGMzam1nNzRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dECBf0xnwQKCPZOkiC/giphy.gif)
+- Hello world (she codes): https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwY2NqOTl2YWp5YTdweGdsZXp0M2x2NGxmeWcycGMzam1nNzRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dECBf0xnwQKCPZOkiC/giphy.gif
 - Coding queens (she codes): https://media.giphy.com/media/UNOX4x1R71hnOqtsXp/giphy.gif
-- Coding queen (she codes): https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif
 - Hello world (fingers): https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif
 - Coding girl: https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif
 - Coding girl: https://media.giphy.com/media/VPnfM9bmR0ZaQo3qtK/giphy.gif
 - Coding penguin: https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/UNOX4x1R71hnOqtsXp/giphy.gif" width="200"/>
 </div>
 
 ## 🚀 About me
