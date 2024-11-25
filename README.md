@@ -8,7 +8,7 @@
 - Coding penguin: https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UNOX4x1R71hnOqtsXp/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwY2NqOTl2YWp5YTdweGdsZXp0M2x2NGxmeWcycGMzam1nNzRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dECBf0xnwQKCPZOkiC/giphy.gif" width="200"/>
 </div>
 
 ## 🚀 About me
