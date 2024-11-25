@@ -1,4 +1,4 @@
-## Hi 👋, I'm Anaïs!
+# Hi 👋, I'm Anaïs!
 <!--
 - Hello world (she codes): https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwY2NqOTl2YWp5YTdweGdsZXp0M2x2NGxmeWcycGMzam1nNzRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dECBf0xnwQKCPZOkiC/giphy.gif
 - Coding queens (she codes): https://media.giphy.com/media/UNOX4x1R71hnOqtsXp/giphy.gif
