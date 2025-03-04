@@ -14,8 +14,7 @@
 ## 🚀 About me
 After over 6 years of experience managing CRM projects in France and Sweden, I am transitioning into a new tech career to become a Software Engineer. My past roles taught me to navigate cross-functional teams in an international environment, and prepared me to contribute immediately and efficiently within a tech team while growing technically in software development roles.
 
-Currently in training at Ada Tech School, I have developed a particular interest in back-end and fullstack projects while embracing agile, project-based methodologies. 
-I am now __looking for an apprenticeship starting in February 2025__ to continue learning and grow as a developper, and I am eager to join projects that make a meaningful impact—both technically and environmentally.
+Currently in training at Ada Tech School, I have developed a particular interest in back-end and fullstack projects while embracing agile, project-based methodologies.
 
 
 ## 📫 How to reach me
